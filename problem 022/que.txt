@@ -1,0 +1,14 @@
+# Problem description file
+Sample Input 0
+
+ABCDEFGHIJKLIMNOQRSTUVWXYZ
+4
+Sample Output 0
+
+ABCD
+EFGH
+IJKL
+IMNO
+QRST
+UVWX
+YZ
