@@ -2,8 +2,6 @@ There is an array of  integers. There are also  disjoint sets,  and , each conta
 
 Note: Since  and  are sets, they have no repeated elements. However, the array might contain duplicate elements.
 
-Constraints
-
 
 
 Input Format
