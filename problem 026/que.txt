@@ -1,0 +1,1 @@
+You are given a two lists a and b. Your task is to compute their cartesian product aXb.
