@@ -1,5 +1,5 @@
 # Python solution file
-# Enter your
+
 import itertools
 
 def probability_of_a(n, letters, k):
