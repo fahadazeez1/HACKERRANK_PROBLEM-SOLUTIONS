@@ -1,4 +1,4 @@
-# Problem description file
+# Problem description file----
 The first line contains the integer, .
 The next  lines each contain a word.
 
