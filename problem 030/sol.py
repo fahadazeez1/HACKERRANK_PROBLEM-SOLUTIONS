@@ -1,4 +1,4 @@
-# Python solution file
+# Python solution file -
 def minion_game(string):
     # Define vowels
     vowels = 'AEIOU'
