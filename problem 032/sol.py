@@ -1,4 +1,4 @@
-# Python solution file
+# Python solution file --->
 def symmetric_difference(a, b):
     # Convert lists to sets
     set_a = set(a)
