@@ -1,4 +1,4 @@
-# Python solution file
+# Python solution file 
 from collections import Counter
 
 # Read input
