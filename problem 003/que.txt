@@ -1,5 +1,5 @@
 Task :-> 
-
+  
 
 The provided code stub reads and integer, , from STDIN. For all non-negative integers , print .
 
