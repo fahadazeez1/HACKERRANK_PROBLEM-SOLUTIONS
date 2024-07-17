@@ -1,0 +1,5 @@
+# Problem description file
+The first line contains an integer, , the number of students who have subscribed to the English newspaper.
+The second line contains  space separated roll numbers of those students.
+The third line contains , the number of students who have subscribed to the French newspaper.
+The fourth line contains  space separated roll numbers of those students.
