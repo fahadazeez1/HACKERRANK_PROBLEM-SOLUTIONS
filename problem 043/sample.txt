@@ -1,0 +1,10 @@
+# Problem description file
+Sample Input
+
+177
+10
+Sample Output
+
+17
+7
+(17, 7)
