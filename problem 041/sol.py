@@ -5,7 +5,7 @@ n = int(input())
 # Step 2: Read the column names and find the index of the 'MARKS' column
 columns = input().split()
 marks_index = columns.index('MARKS')
-
+ 
 # Step 3: Initialize a variable to store the total marks
 total_marks = 0
 
