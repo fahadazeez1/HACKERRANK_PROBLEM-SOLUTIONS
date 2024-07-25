@@ -1,0 +1,8 @@
+# Problem description file
+Sample Input
+
+5
+12 9 61 5 14 
+Sample Output
+
+True
