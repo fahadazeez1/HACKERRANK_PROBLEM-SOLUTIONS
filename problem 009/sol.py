@@ -5,7 +5,7 @@ if __name__ == '__main__':
         score = float(input())
         students.append([name, score])
     
-    
+
     grades = list(set([student[1] for student in students]))
     grades.sort()
 
