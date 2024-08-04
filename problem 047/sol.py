@@ -1,3 +1,3 @@
-k=input("dda")
+k=input("")
 j=eval(k)
 print(j)
