@@ -1,3 +1,3 @@
 k=input("")
 j=eval(k)
-print(j)
+print(j) 
