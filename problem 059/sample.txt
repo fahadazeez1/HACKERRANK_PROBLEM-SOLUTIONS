@@ -1,0 +1,14 @@
+# Problem description file
+Sample Input 0
+
+4
+4.0O0
+-1.00
++4.54
+SomeRandomStuff
+Sample Output 0
+
+False
+True
+True
+False
