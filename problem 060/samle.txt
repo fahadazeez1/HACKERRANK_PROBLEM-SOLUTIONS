@@ -1,0 +1,7 @@
+# Problem description file
+Sample Input
+
+Sorting1234
+Sample Output
+
+ginortS1324
