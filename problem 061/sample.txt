@@ -1,0 +1,7 @@
+# Problem description file
+Sample Input
+
+5
+Sample Output
+
+[0, 1, 1, 8, 27]
