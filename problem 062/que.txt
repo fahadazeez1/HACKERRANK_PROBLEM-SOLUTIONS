@@ -1,0 +1,5 @@
+You are given two sets a,  and b.
+Your job is to find whether a set  is a subset of set b.
+
+If set  a  is subset of set b , print True.
+If set a is not a subset of set b, print False.
