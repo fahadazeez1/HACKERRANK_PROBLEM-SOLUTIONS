@@ -1,1 +1,5 @@
 # Question file
+Task
+
+You are given two arrays: A and B.
+Your task is to compute their inner and outer product.
