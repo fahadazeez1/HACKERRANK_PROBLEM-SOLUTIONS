@@ -17,4 +17,3 @@ print(outer_product)
 
 
 
-s
