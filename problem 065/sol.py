@@ -1,4 +1,4 @@
-# Solution file
+# Solution file 
 import numpy as np
 
 # Take input from user
